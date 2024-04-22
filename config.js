@@ -1,11 +1,11 @@
 module.exports = {
   
 
-    MONGODB_USERNAME:"sales"
+    MONGODB_USERNAME:"sales",
 
-    MONGODB_PASSWORD:"r$nG6=ic!tkF"a8"
+    MONGODB_PASSWORD:"Fuck1984@!.",
 
-    MONGODB_DB_NAME:"love"
+    MONGODB_DB_NAME:"love",
 
 
   //port
