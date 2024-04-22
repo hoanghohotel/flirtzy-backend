@@ -1,20 +1,29 @@
 module.exports = {
+  
+
+    MONGODB_USERNAME:"sales"
+
+    MONGODB_PASSWORD:"r$nG6=ic!tkF"a8"
+
+    MONGODB_DB_NAME:"love"
+
+
   //port
   PORT: process.env.PORT || 5000,
 
   //secret key for API
-  SECRET_KEY: "SECRET_KEY",
+  SECRET_KEY: "ssKstE5NSY",
 
   //gmail credentials for send email
   EMAIL: "EMAIL",
   PASSWORD: "PASSWORD",
 
   //secret key for jwt
-  JWT_SECRET: "JWT_SECRET",
+  JWT_SECRET: "ssKstE5NSY",
 
   //baseUrl
-  baseURL: "https://yourDomain.com/",
+  baseURL: "https://lovebabebackend.netlify.app/",
 
   //firebase server key for notification
-  SERVER_KEY: "SERVER_KEY",
+  SERVER_KEY: "AAAAoV65bA0:APA91bGTU0yChaV8ENQRv-9C5AJuhOJwq9QDJKmLZjN80QwKd7gqCcvM5pGPkfKiuAf5TWX2IyPQvZHAlnHcFta-qQQfQcT5GDlfKka2dG7zrX11aX-zqtc8qb6DeU2P_m1pK3YEkZ2_",
 };
