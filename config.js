@@ -8,7 +8,7 @@ module.exports = {
 
   MONGODB_USERNAME:"sales",
 
-  MONGODB_PASSWORD:"Fuck1984@!.",
+  MONGODB_PASSWORD:"Fuck1984",
 
   MONGODB_DB_NAME:"love",
 
