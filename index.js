@@ -135,7 +135,7 @@ app.get("/*", function (req, res) {
 
 //mongodb connection
 mongoose.connect(
-  `MONGODB_CONNECTION_STRING`,
+  `mongodb+srv://sales:r$nG6=ic!tkF"a8@cluster0.qj7u2pj.mongodb.net/`,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
